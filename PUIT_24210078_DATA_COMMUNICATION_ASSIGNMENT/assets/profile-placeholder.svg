@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Ayishetu Abubakar profile placeholder</title>
+  <desc id="desc">A clean profile placeholder with the initials AA.</desc>
+  <rect width="640" height="640" fill="#0f766e"/>
+  <path d="M0 470 640 260v380H0z" fill="#0b4f4a"/>
+  <path d="M0 0h640L0 220z" fill="#cf6757" opacity=".9"/>
+  <circle cx="320" cy="262" r="106" fill="#f7fbf8"/>
+  <path d="M160 610c22-104 82-156 160-156s138 52 160 156z" fill="#f7fbf8"/>
+  <text x="320" y="294" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800" fill="#0b4f4a">AA</text>
+</svg>
